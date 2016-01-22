@@ -1,0 +1,10 @@
+D:\TxtTransfer\TxtTransferSender\bin\Debug\TxtTransferSender.exe
+D:\TxtTransfer\TxtTransferSender\bin\Debug\TxtTransferSender.pdb
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\TxtTransferSender.Form1.resources
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\TxtTransferSender.Properties.Resources.resources
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\TxtTransferSender.Setting.resources
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\TxtTransferSender.exe
+D:\TxtTransfer\TxtTransferSender\obj\x86\Debug\TxtTransferSender.pdb

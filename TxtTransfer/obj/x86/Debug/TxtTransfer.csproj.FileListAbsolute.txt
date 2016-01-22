@@ -1,0 +1,9 @@
+D:\TxtTransfer\TxtTransfer\bin\Debug\TxtTransfer.exe
+D:\TxtTransfer\TxtTransfer\bin\Debug\TxtTransfer.pdb
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\TxtTransfer.Form1.resources
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\TxtTransfer.Properties.Resources.resources
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\TxtTransfer.exe
+D:\TxtTransfer\TxtTransfer\obj\x86\Debug\TxtTransfer.pdb

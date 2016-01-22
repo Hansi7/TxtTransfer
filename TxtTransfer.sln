@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxtTransfer", "TxtTransfer\TxtTransfer.csproj", "{85C4D1B2-2EFE-4A2D-A487-C316BA7B8341}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TxtTransferSender", "TxtTransferSender\TxtTransferSender.csproj", "{FD1C691F-A2F0-492F-890D-FDDAF11579B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85C4D1B2-2EFE-4A2D-A487-C316BA7B8341}.Debug|x86.ActiveCfg = Debug|x86
+		{85C4D1B2-2EFE-4A2D-A487-C316BA7B8341}.Debug|x86.Build.0 = Debug|x86
+		{85C4D1B2-2EFE-4A2D-A487-C316BA7B8341}.Release|x86.ActiveCfg = Release|x86
+		{85C4D1B2-2EFE-4A2D-A487-C316BA7B8341}.Release|x86.Build.0 = Release|x86
+		{FD1C691F-A2F0-492F-890D-FDDAF11579B2}.Debug|x86.ActiveCfg = Debug|x86
+		{FD1C691F-A2F0-492F-890D-FDDAF11579B2}.Debug|x86.Build.0 = Debug|x86
+		{FD1C691F-A2F0-492F-890D-FDDAF11579B2}.Release|x86.ActiveCfg = Release|x86
+		{FD1C691F-A2F0-492F-890D-FDDAF11579B2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
